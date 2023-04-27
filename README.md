@@ -5,7 +5,7 @@
 Programming language
 
 ```
-go 1.19.1
+go 1.20.3
 ```
 #### 作者@会不定时更新
 
