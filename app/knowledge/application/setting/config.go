@@ -1,1 +1,5 @@
 package setting
+
+func Config() {
+
+}
