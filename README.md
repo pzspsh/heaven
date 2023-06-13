@@ -2,8 +2,7 @@
 
 # laws
 
-Programming language
-
+## 开发环境 Programming language
 ```
 go 1.20.3
 ```
